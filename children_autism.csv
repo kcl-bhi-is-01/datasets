@@ -31,7 +31,7 @@ NO,6,m,?,no,yes,United Arab Emirates,no,?,5,0,1,1,0,0,0,1,1,0,1
 NO,4,f,Others,yes,yes,Georgia,no,Parent,3,0,0,1,0,1,0,1,0,0,0
 YES,11,m,White-European,no,no,United Kingdom,no,Parent,10,1,1,1,1,1,1,1,1,1,1
 NO,6,m,Pasifika,yes,no,New Zealand,no,Parent,4,0,0,1,0,0,1,0,0,1,1
-YES,?,m,?,no,no,Egypt,no,?,7,1,0,0,1,0,1,1,1,1,1
+YES,6,m,?,no,no,Egypt,no,?,7,1,0,0,1,0,1,1,1,1,1
 NO,5,m,South Asian,yes,no,India,no,'Health care professional',5,1,0,0,0,1,1,0,1,0,1
 NO,6,m,South Asian,yes,no,India,no,Parent,5,1,0,0,0,1,1,0,0,1,1
 NO,7,f,Middle Eastern ,yes,no,Syria,no,Parent,1,0,1,0,0,0,0,0,0,0,0
@@ -64,7 +64,7 @@ YES,9,m,White-European,no,no,United States,no,Parent,9,1,0,1,1,1,1,1,1,1,1
 NO,4,f,White-European,yes,no,Australia,no,Parent,6,1,1,1,0,1,1,0,0,0,1
 YES,9,m,Asian,yes,no,Pakistan,no,Parent,9,1,1,1,0,1,1,1,1,1,1
 NO,8,m,Middle Eastern ,no,no,United States,no,Parent,5,1,0,1,1,0,0,0,1,0,1
-NO,?,m,Middle Eastern ,no,no,Jordan,no,Parent,1,0,0,1,0,0,0,0,0,0,0
+NO,5,m,Middle Eastern ,no,no,Jordan,no,Parent,1,0,0,1,0,0,0,0,0,0,0
 NO,4,m,White-European,no,no,United Kingdom,no,Parent,3,1,0,0,0,1,0,0,0,0,1
 NO,4,m,White-European,no,no,United Kingdom,no,Parent,4,1,0,0,0,1,0,1,0,0,1
 NO,4,f,?,no,yes,Pakistan,no,?,5,0,0,1,0,1,1,1,0,1,0
@@ -125,7 +125,7 @@ YES,7,m,White-European,no,no,United Kingdom,no,Relative,10,1,1,1,1,1,1,1,1,1,1
 NO,4,m,?,yes,no,Qatar,no,?,5,0,1,1,0,0,1,1,1,0,0
 YES,6,f,White-European,yes,no,Ireland,no,Parent,8,1,1,1,0,0,1,1,1,1,1
 YES,5,m,Asian,no,no,India,no,Parent,8,0,1,1,0,1,1,1,1,1,1
-YES,?,m,?,yes,no,Jordan,no,?,7,1,1,1,1,0,1,0,1,0,1
+YES,8,m,?,yes,no,Jordan,no,?,7,1,1,1,1,0,1,0,1,0,1
 YES,4,f,Asian,yes,no,United Kingdom,no,Parent,7,0,0,1,0,1,1,1,1,1,1
 NO,9,m,Asian,no,no,India,yes,Parent,6,1,0,1,0,1,1,1,1,0,0
 YES,4,f,White-European,yes,no,United States,no,Parent,7,1,0,1,1,0,1,1,1,0,1
@@ -137,7 +137,7 @@ YES,4,m,White-European,no,yes,United Kingdom,no,Parent,9,1,1,1,1,1,1,0,1,1,1
 NO,6,m,White-European,no,no,Romania,no,Parent,5,0,1,1,1,1,0,0,0,1,0
 YES,4,f,White-European,yes,no,United Kingdom,no,Parent,7,1,1,1,0,1,0,1,0,1,1
 NO,5,f,Hispanic,no,no,United States,no,Parent,0,0,0,0,0,0,0,0,0,0,0
-NO,?,m,?,yes,no,Qatar,yes,?,6,0,1,1,0,1,1,1,1,0,0
+NO,5,m,?,yes,no,Qatar,yes,?,6,0,1,1,0,1,1,1,1,0,0
 YES,9,m,White-European,yes,yes,United Kingdom,no,Parent,10,1,1,1,1,1,1,1,1,1,1
 YES,7,f,White-European,no,no,Australia,no,Parent,8,1,0,1,1,1,0,1,1,1,1
 NO,10,f,White-European,no,no,Netherlands,no,Parent,6,0,1,1,0,0,1,1,1,0,1
