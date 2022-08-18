@@ -1,4 +1,4 @@
-asd,age,gender,ethnicity, jaundice,development_disorders_in_family,country_of_residence,app_used_before,relation,score,q1,q2,q3,q4,q5,q6,q7,q8,q9,q10
+asd,age,gender,ethnicity,jaundice,development_disorders_in_family,country_of_residence,app_used_before,relation,score,q1,q2,q3,q4,q5,q6,q7,q8,q9,q10
 NO,6,m,Others,no,no,Jordan,no,Parent,5,1,1,0,0,1,1,0,1,0,0
 NO,6,m,Middle Eastern ,no,no,Jordan,no,Parent,5,1,1,0,0,1,1,0,1,0,0
 NO,6,m,?,no,no,Jordan,yes,?,5,1,1,0,0,0,1,1,1,0,0
