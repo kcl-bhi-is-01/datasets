@@ -1,0 +1,21 @@
+﻿outcome,outcome_description
+-,no condition requiring comment
+A,hyperthyroid
+B,T3 toxic
+C,toxic goitre
+D,secondary toxic
+E,hypothyroid
+F,primary hypothyroid
+G,compensated hypothyroid
+H,secondary hypothyroid
+I,increased binding protein
+J,decreased binding protein
+K,concurrent non-thyroidal illness
+L,consistent with replacement therapy
+M,underreplaced
+N,overreplaced
+O,antithyroid drugs
+P,I131 treatment
+Q,surgery
+R,discordant assay results
+S,elevated TBG
